@@ -20,11 +20,11 @@ A IA é responsável por interpretar os dados recebidos e produzir relatórios t
 
 ## Sistema operando normalmente
 
-![Dados da missão](assets/teste2.png)
+![Dados da missão](main/teste2.png)
 
 ## Situação crítica com resposta da IA
 
-![Alerta crítico](assets/teste1.png)
+![Alerta crítico](main/teste1.png)
 
 ---
 
