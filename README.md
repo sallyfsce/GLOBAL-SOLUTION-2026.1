@@ -33,6 +33,8 @@ A IA é responsável por interpretar os dados recebidos e produzir relatórios t
 
 O projeto foi desenvolvido para execução no Google Colab.
 
+---
+
 ## Abrir Notebook
 
 [Acessar Notebook](https://colab.research.google.com/drive/1SRH5e2RcGKYOU6JfZDsxq-EjSQfXZwQV?usp=sharing)
@@ -53,3 +55,9 @@ O notebook irá:
 - exibir os relatórios operacionais
 
 ---
+
+## Vídeo
+
+Vídeo explicativo e demonstrativo do sistema Mission Control AI.
+
+[Link do Vídeo](https://youtu.be/W84CUZX2jlg)
